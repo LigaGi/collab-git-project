@@ -1,1 +1,2 @@
 This is a test file on feature_world branch. Created by Edgars
+Adding on more line by Liga.
